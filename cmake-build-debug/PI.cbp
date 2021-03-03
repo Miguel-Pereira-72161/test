@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PI"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EX2">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/EX2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 EX2"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EX2/fast">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/EX2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 EX2/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PI">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/PI" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 PI"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PI/fast">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/PI" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 PI/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="padrao2">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/padrao2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 padrao2"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="padrao2/fast">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/padrao2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 padrao2/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EX4">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/EX4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 EX4"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EX4/fast">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/EX4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 EX4/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="triangulos">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/triangulos" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 triangulos"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="triangulos/fast">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/triangulos" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 triangulos/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FICHA1">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/FICHA1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 FICHA1"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FICHA1/fast">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/FICHA1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 FICHA1/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="padrao3">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/padrao3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 padrao3"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="padrao3/fast">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/padrao3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 padrao3/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EX3">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/EX3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 EX3"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EX3/fast">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/EX3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 EX3/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EX5">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/EX5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 EX5"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EX5/fast">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/EX5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 EX5/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="padrao">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/padrao" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 padrao"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="padrao/fast">
+				<Option output="/home/miguel/CLionProjects/PI/cmake-build-debug/padrao" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/miguel/CLionProjects/PI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 padrao/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/miguel/CLionProjects/PI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/miguel/CLionProjects/PI/EX2.c">
+			<Option target="EX2"/>
+		</Unit>
+		<Unit filename="/home/miguel/CLionProjects/PI/EX3.c">
+			<Option target="EX3"/>
+		</Unit>
+		<Unit filename="/home/miguel/CLionProjects/PI/EX4.c">
+			<Option target="EX4"/>
+		</Unit>
+		<Unit filename="/home/miguel/CLionProjects/PI/EX5.c">
+			<Option target="EX5"/>
+		</Unit>
+		<Unit filename="/home/miguel/CLionProjects/PI/FICHA1.c">
+			<Option target="FICHA1"/>
+		</Unit>
+		<Unit filename="/home/miguel/CLionProjects/PI/cmake-build-debug/padrao3.c">
+			<Option target="padrao3"/>
+		</Unit>
+		<Unit filename="/home/miguel/CLionProjects/PI/main.cpp">
+			<Option target="PI"/>
+		</Unit>
+		<Unit filename="/home/miguel/CLionProjects/PI/padrao.c">
+			<Option target="padrao"/>
+		</Unit>
+		<Unit filename="/home/miguel/CLionProjects/PI/padrao2.c">
+			<Option target="padrao2"/>
+		</Unit>
+		<Unit filename="/home/miguel/CLionProjects/PI/triangulos.c">
+			<Option target="triangulos"/>
+		</Unit>
+		<Unit filename="/home/miguel/CLionProjects/PI/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

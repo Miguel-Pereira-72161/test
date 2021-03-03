@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/padrao2.dir/padrao2.c.o  -o padrao2 

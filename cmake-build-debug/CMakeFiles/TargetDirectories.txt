@@ -1,0 +1,12 @@
+/home/miguel/CLionProjects/PI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/miguel/CLionProjects/PI/cmake-build-debug/CMakeFiles/EX2.dir
+/home/miguel/CLionProjects/PI/cmake-build-debug/CMakeFiles/PI.dir
+/home/miguel/CLionProjects/PI/cmake-build-debug/CMakeFiles/padrao2.dir
+/home/miguel/CLionProjects/PI/cmake-build-debug/CMakeFiles/EX4.dir
+/home/miguel/CLionProjects/PI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/miguel/CLionProjects/PI/cmake-build-debug/CMakeFiles/triangulos.dir
+/home/miguel/CLionProjects/PI/cmake-build-debug/CMakeFiles/FICHA1.dir
+/home/miguel/CLionProjects/PI/cmake-build-debug/CMakeFiles/padrao3.dir
+/home/miguel/CLionProjects/PI/cmake-build-debug/CMakeFiles/EX3.dir
+/home/miguel/CLionProjects/PI/cmake-build-debug/CMakeFiles/EX5.dir
+/home/miguel/CLionProjects/PI/cmake-build-debug/CMakeFiles/padrao.dir
